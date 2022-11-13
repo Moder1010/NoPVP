@@ -1,8 +1,8 @@
 name: NoPVP
 api: [4.0.0]
-main: Laith98Dev\NoPVP\Main
-author: Laith98Dev
-website: https://github.com/Laith98Dev
+main: M7Dev\NoPVP\Main
+author: M7Dev
+website: https://github.com/M7Dev
 version: 1.0.2
 
 commands:
